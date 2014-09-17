@@ -1,5 +1,5 @@
 #btndist{
-width:96%;
+width:97%;
 height:80px;
 border-radius:30px;
 padding-top:40px;
@@ -13,7 +13,7 @@ border-width:5px;
 text-decoration:none;
 }
 #btnperimeter{
-width:96%;
+width:97%;
 height:80px;
 border-radius:30px;
 padding-top:40px;
@@ -27,7 +27,7 @@ border-width:5px;
 text-decoration:none;
 }
 #btnarea{
-width:96%;
+width:97%;
 height:80px;
 border-radius:30px;
 padding-top:40px;
@@ -58,4 +58,7 @@ border-width:5px;
 }
 #butoane{
 text-align:center;
+width:100%;
 }
+
+
